@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.debug
+dist/
+.version-*
+test/test_*
+!test/test_*.c
+__pycache__/
